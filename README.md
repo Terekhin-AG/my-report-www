@@ -1,4 +1,4 @@
 # my-report-www
 My report web site.
 
-[report/Практическая работа.01.md] (Практическая работа)
+[Практическая работа] (my-report-www/report/Практическая работа.01.md)
